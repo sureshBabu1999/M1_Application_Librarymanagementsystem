@@ -8,9 +8,17 @@ So, it is basically a TWO PLAYER game.But in my project a single player plays th
 
 
 Software Requirements:
+
+
 .>Visual studio code
+
+
 .>C/C++ Extension
 
 Hardware Requirements:
+
+
 .>1.6 GHz or faster processor
+
+
 .>1 GB of RAM
